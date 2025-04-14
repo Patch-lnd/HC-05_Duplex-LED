@@ -1,2 +1,12 @@
 # HC-05_Duplex-LED
 It permits the control of two LEDs, Red and Blue with a smatphone in the form of "0" and "1" respectively. Additionally,enables the communication from the Arduino through the Serial Monitor to the smartphone with the represenatation of the Yellow LED which gets ON when the Serial monitor sends "b" and OFF when "a", sends a confirmation message to the phone.
+
+![HC](https://github.com/user-attachments/assets/0e03bc90-2931-4881-8286-01fb56610ad7)
+![c](https://github.com/user-attachments/assets/48bb13d4-07d3-444f-94e2-fcb061bcd446)
+
+DEMO VIDEO
+
+
+https://github.com/user-attachments/assets/f1cc23eb-3e7e-4b0f-8dbd-5c4a2c7deefe
+
+
